@@ -25,7 +25,7 @@ SECRET_KEY = 'ke1oryf&jk2s^*(l@ffgn*je1mkivtm=mdz%2d6q@##l_i59ov'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['isfac2020.alwaysdata.net',]
 
 
 # Application definition
